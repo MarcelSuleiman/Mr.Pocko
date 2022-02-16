@@ -1,0 +1,1 @@
+worker: python mrpocko_bot.py
